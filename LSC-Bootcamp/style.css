@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.container{
+    background-color: blue;
+    max-width: 100%;
+}
+.box-top{
+    height: 70px;
+    margin: 0 15% 15%;
+}
+.box-top-title{
+    font-size: 35px;
+    color: white;
+    display: inline;
+}
+.box-top-login{
+    color: white;
+    float: right;
+}
+.box-top-user{
+    float: left;
+    padding-right: 10px;
+}
+.box-top-pass{
+    float: left;
+    padding-right: 10px;
+}
+.box-top-submit{
+    float: left;
+    padding-top: 17px;
+}
+a{
+    color: white;
+}
